@@ -1,7 +1,6 @@
 # Automation repetitive task software
 Tremendously automated repetitive task sofware  with the motive of contributing to what makes your day to day activities much easier and accessible for you at your work place.
 Before jumping to what we've today.I want to use this Opportunity to Thank each and every one of you for contributing in one way or the other and congratulate us as well because we recently hit our first 1.2K+ views on GITHUB with over 250 clones on my last repo. However,I'll encourage each and every one of us to keep up the good work. on that note, I want to advance us alittle bit on how to build a good automation task that can be used in your different organization. Please take note of each and every step to fully understand how to repetitive automate a software to perform a particular task without the intervention of human being. it can be considered as a machince learning task.also the following steps will help and assit you to state your algorithm when a atomating a particular task below.
-
 How to understand and use this software:
 
 1. TO begin with, an in-depth knowledge of Javascript and html is needed before jumping on this project. on that note I want to let y'all know that this project was built fresh on my own with the little experience i've been able to accumulate on the programming so far.and taht will take us to the first step of this project.
